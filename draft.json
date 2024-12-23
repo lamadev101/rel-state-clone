@@ -1,0 +1,215 @@
+[
+  {
+    "$collectionId": "6767ed89002dd84e5626",
+    "$createdAt": "2024-12-22T11:45:20.357+00:00",
+    "$databaseId": "6767ec260008528f381d",
+    "$id": "6767fbd000073e8baf5b",
+    "$permissions": [
+      "read(\"user:6767eb90aed9c3fc98f5\")",
+      "update(\"user:6767eb90aed9c3fc98f5\")",
+      "delete(\"user:6767eb90aed9c3fc98f5\")"
+    ],
+    "$updatedAt": "2024-12-22T11:45:20.357+00:00",
+    "address": "123 Property Street, City 1",
+    "agent": {
+      "$collectionId": "6767ec50003a980015cb",
+      "$createdAt": "2024-12-22T11:45:01.830+00:00",
+      "$databaseId": "6767ec260008528f381d",
+      "$id": "6767fbbd0014d3ff5582",
+      "$permissions": [Array
+      ],
+      "$updatedAt": "2024-12-22T11:45:01.830+00:00",
+      "avatar": "https://images.unsplash.com/photo-1691335053879-02096d6ee2ca?q=60&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "email": "agent3@example.com",
+      "name": "Agent 3"
+    },
+    "area": 682,
+    "bathrooms": 4,
+    "bedrooms": 2,
+    "description": "This is the description for Property 1.",
+    "facilities": [
+      "Laundry",
+      "Cutlery"
+    ],
+    "gallery": [],
+    "geolocation": "192.168.1.1, 192.168.1.1",
+    "image": "https://images.unsplash.com/photo-1605146768851-eda79da39897?q=60&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Property 1",
+    "price": 1702,
+    "rating": 2,
+    "reviews": [],
+    "type": "Others"
+  },
+  {
+    "$collectionId": "6767ed89002dd84e5626",
+    "$createdAt": "2024-12-22T11:45:21.167+00:00",
+    "$databaseId": "6767ec260008528f381d",
+    "$id": "6767fbd0003811badff2",
+    "$permissions": [
+      "read(\"user:6767eb90aed9c3fc98f5\")",
+      "update(\"user:6767eb90aed9c3fc98f5\")",
+      "delete(\"user:6767eb90aed9c3fc98f5\")"
+    ],
+    "$updatedAt": "2024-12-22T11:45:21.167+00:00",
+    "address": "123 Property Street, City 2",
+    "agent": {
+      "$collectionId": "6767ec50003a980015cb",
+      "$createdAt": "2024-12-22T11:45:01.004+00:00",
+      "$databaseId": "6767ec260008528f381d",
+      "$id": "6767fbbc002bb7fc3670",
+      "$permissions": [Array
+      ],
+      "$updatedAt": "2024-12-22T11:45:01.004+00:00",
+      "avatar": "https://images.unsplash.com/photo-1544723495-432537d12f6c?q=60&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "email": "agent2@example.com",
+      "name": "Agent 2"
+    },
+    "area": 1741,
+    "bathrooms": 2,
+    "bedrooms": 1,
+    "description": "This is the description for Property 2.",
+    "facilities": [
+      "Parking",
+      "Laundry",
+      "Cutlery",
+      "Wifi",
+      "Sports"
+    ],
+    "gallery": [],
+    "geolocation": "192.168.1.2, 192.168.1.2",
+    "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=60&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Property 2",
+    "price": 7242,
+    "rating": 2,
+    "reviews": [],
+    "type": "Duplexes"
+  },
+  {
+    "$collectionId": "6767ed89002dd84e5626",
+    "$createdAt": "2024-12-22T11:45:22.045+00:00",
+    "$databaseId": "6767ec260008528f381d",
+    "$id": "6767fbd1002fd2c25f46",
+    "$permissions": [
+      "read(\"user:6767eb90aed9c3fc98f5\")",
+      "update(\"user:6767eb90aed9c3fc98f5\")",
+      "delete(\"user:6767eb90aed9c3fc98f5\")"
+    ],
+    "$updatedAt": "2024-12-22T11:45:22.045+00:00",
+    "address": "123 Property Street, City 3",
+    "agent": {
+      "$collectionId": "6767ec50003a980015cb",
+      "$createdAt": "2024-12-22T11:45:02.376+00:00",
+      "$databaseId": "6767ec260008528f381d",
+      "$id": "6767fbbe0005487291b2",
+      "$permissions": [Array
+      ],
+      "$updatedAt": "2024-12-22T11:45:02.376+00:00",
+      "avatar": "https://images.unsplash.com/photo-1542507464418-09c375b86bbe?q=60&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "email": "agent4@example.com",
+      "name": "Agent 4"
+    },
+    "area": 3221,
+    "bathrooms": 5,
+    "bedrooms": 5,
+    "description": "This is the description for Property 3.",
+    "facilities": [
+      "Sports",
+      "Cutlery",
+      "Laundry",
+      "Parking",
+      "Gym"
+    ],
+    "gallery": [],
+    "geolocation": "192.168.1.3, 192.168.1.3",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=60&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Property 3",
+    "price": 1504,
+    "rating": 4,
+    "reviews": [],
+    "type": "Townhomes"
+  },
+  {
+    "$collectionId": "6767ed89002dd84e5626",
+    "$createdAt": "2024-12-22T11:45:23.146+00:00",
+    "$databaseId": "6767ec260008528f381d",
+    "$id": "6767fbd2003548ccd63f",
+    "$permissions": [
+      "read(\"user:6767eb90aed9c3fc98f5\")",
+      "update(\"user:6767eb90aed9c3fc98f5\")",
+      "delete(\"user:6767eb90aed9c3fc98f5\")"
+    ],
+    "$updatedAt": "2024-12-22T11:45:23.146+00:00",
+    "address": "123 Property Street, City 4",
+    "agent": {
+      "$collectionId": "6767ec50003a980015cb",
+      "$createdAt": "2024-12-22T11:45:02.376+00:00",
+      "$databaseId": "6767ec260008528f381d",
+      "$id": "6767fbbe0005487291b2",
+      "$permissions": [Array
+      ],
+      "$updatedAt": "2024-12-22T11:45:02.376+00:00",
+      "avatar": "https://images.unsplash.com/photo-1542507464418-09c375b86bbe?q=60&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "email": "agent4@example.com",
+      "name": "Agent 4"
+    },
+    "area": 1629,
+    "bathrooms": 4,
+    "bedrooms": 2,
+    "description": "This is the description for Property 4.",
+    "facilities": [
+      "Sports",
+      "Cutlery",
+      "Gym"
+    ],
+    "gallery": [],
+    "geolocation": "192.168.1.4, 192.168.1.4",
+    "image": "https://images.unsplash.com/photo-1561753757-d8880c5a3551?q=60&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Property 4",
+    "price": 8753,
+    "rating": 4,
+    "reviews": [],
+    "type": "House"
+  },
+  {
+    "$collectionId": "6767ed89002dd84e5626",
+    "$createdAt": "2024-12-22T11:45:23.970+00:00",
+    "$databaseId": "6767ec260008528f381d",
+    "$id": "6767fbd3002f074faa46",
+    "$permissions": [
+      "read(\"user:6767eb90aed9c3fc98f5\")",
+      "update(\"user:6767eb90aed9c3fc98f5\")",
+      "delete(\"user:6767eb90aed9c3fc98f5\")"
+    ],
+    "$updatedAt": "2024-12-22T11:45:23.970+00:00",
+    "address": "123 Property Street, City 5",
+    "agent": {
+      "$collectionId": "6767ec50003a980015cb",
+      "$createdAt": "2024-12-22T11:45:03.032+00:00",
+      "$databaseId": "6767ec260008528f381d",
+      "$id": "6767fbbe002cfc6d4d26",
+      "$permissions": [Array
+      ],
+      "$updatedAt": "2024-12-22T11:45:03.032+00:00",
+      "avatar": "https://images.unsplash.com/photo-1691335053879-02096d6ee2ca?q=60&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "email": "agent5@example.com",
+      "name": "Agent 5"
+    },
+    "area": 1198,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "description": "This is the description for Property 5.",
+    "facilities": [
+      "Laundry",
+      "Cutlery",
+      "Sports"
+    ],
+    "gallery": [],
+    "geolocation": "192.168.1.5, 192.168.1.5",
+    "image": "https://images.unsplash.com/photo-1551241090-67de81d3541c?q=60&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Property 5",
+    "price": 3367,
+    "rating": 5,
+    "reviews": [],
+    "type": "Apartments"
+  }
+]
